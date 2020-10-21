@@ -1,0 +1,2 @@
+import mod
+mod.aaa()
